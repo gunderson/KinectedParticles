@@ -1,0 +1,24 @@
+[
+	{
+		"emitter":{
+			"density": 1,
+			"spread": 1
+		},
+		"particle":{
+			"shape": "square",
+			"fillColor": "ffff00ff",
+			"lifespan": 100
+		}
+	},
+	{
+		"emitter":{
+			"density": 1,
+			"spread": 1
+		},
+		"particle":{
+			"shape": "square",
+			"fillColor": "ffff0000",
+			"lifespan": 100
+		}
+	}
+]
